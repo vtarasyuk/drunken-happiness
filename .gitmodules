@@ -1,0 +1,4 @@
+[submodule "user1"]
+	path = user1
+	url = https://github.com/vtarasyuk/drunken-happiness
+	branch = master
